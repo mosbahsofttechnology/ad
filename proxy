@@ -2,7 +2,7 @@
 {
   "result": "true",
   "message": "success",
-  "data": {
+  "data": 
     {
       "app_name": "",
       "app_id": "",
@@ -12,5 +12,5 @@
       "rewarded_ad_id": "",
       "open_ad_id": ""
     }
-  }
+  
 }
